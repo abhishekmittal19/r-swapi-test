@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Luke Skywalker",
+    "birth_year": "19BBY",
+    "species": ["https://swapi.dev/api/species/1/"],
+    "url": "https://swapi.dev/api/people/1/"
+  },
+  {
+    "name": "Darth Vader",
+    "birth_year": "41.9BBY",
+    "species": ["https://swapi.dev/api/species/1/"],
+    "url": "https://swapi.dev/api/people/4/"
+  },
+  {
+    "name": "Leia Organa",
+    "birth_year": "19BBY",
+    "species": ["https://swapi.dev/api/species/1/"],
+    "url": "https://swapi.dev/api/people/5/"
+  }
+]
